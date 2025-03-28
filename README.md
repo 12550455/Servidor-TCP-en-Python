@@ -16,4 +16,9 @@ Lograr la comunicacion entre un servidor y un cliente TCP usando localhost (127.
 Abre una terminal y ejecuta:
 
 ```bash
-python servidor.py
+python Servidor.py
+python Cliente.py
+```
+### 2. Escribe un mesaje
+
+Escribe un mensaje desde el Cliente y el Servidor te respondera lo mismo. En caso de terminar la conexion debes escribir 'DESCONEXION'
